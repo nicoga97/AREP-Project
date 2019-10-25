@@ -10,7 +10,10 @@ Una de las características que define Rappi es la gama ancha de los productos y
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
  - ## Business Canvas
+ 
+ ![](canvas rappi.PNG)
  - ## Diagrama de procesos
+ ![](rappi.png)
  - ## Organigrama
 
 # Aplicaciones
