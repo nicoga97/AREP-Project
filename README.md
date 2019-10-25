@@ -11,7 +11,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 
  - ## Business Canvas
  
- ![](canvas rappi.PNG)
+ ![](canvas-rappi.png)
  - ## Diagrama de procesos
  ![](rappi.png)
  - ## Organigrama
