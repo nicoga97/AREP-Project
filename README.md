@@ -18,22 +18,25 @@ Una de las características que define Rappi es la gama ancha de los productos y
  - ### Organigrama general
   ![](organigrama.png)
   - ### Organigrama TI
-   ![](OrganigramaTi.png)
+   ![](OrganigramaTi.PNG)
 
 # Aplicaciones
 - ## Inventario de aplicaciones
   ![](InventarioAplicaciones.PNG)
  - ## Diagrama lógico de arquitectura de aplicaciones
- - ### Diagrama unico logico
-
+![](DiagramaUnicoLogico.png)
 
 # Datos
 - ## Diagrama de identificación de principales entidades
+![](DiagramaPrincipalesEntidades.png)
  - ## Diagrama lógico de arquitectura de aplicaciones
+ ![](DiagramaLogicoEspecifico.png)
 
 # Infraestructura de TI
 - ## Diagrama de infraestructura (Red y servidores)
+![](DiagramaInfraestructura.png)
  - ## Inventarios de servidores y servicios
+ ![](Servicios.PNG)
 
 ## Authors
 * **[Nicolás García Rey](https://github.com/nicoga97)**
